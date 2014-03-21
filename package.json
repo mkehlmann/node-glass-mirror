@@ -1,0 +1,19 @@
+{
+  "name": "Glass-nodejs",
+  "version": "0.0.1",
+  "description": "Using the Mirror API to interact with Google Glass",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "glass",
+    "mirrorapi"
+  ],
+  "author": "Matthew Kehlmann <kehlmanm@gmail.com> (https://github.com/mkehlmann)",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^0.6.1",
+    "express": "^3.4.8"
+  }
+}
